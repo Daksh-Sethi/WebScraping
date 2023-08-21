@@ -21,7 +21,10 @@ This project uses Scrapy, a Python web scraping framework, to extract informatio
 4. The scraped data will be saved in the output file defined in pipelines.py.
 
 ## Spider python file
-hm_tshirts > hm_tshirts > 
+hm_tshirts > hm_tshirts > spiders > hm.py
+
+## CSV Data file
+hm_tshirts > hm.csv
 
 # Output Data
 ## Scaped Data
